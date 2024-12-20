@@ -40,10 +40,9 @@
 ---
 
 ## 📫 Let's Connect!  
-- 🌐 [Portfolio](#) (coming soon!)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 [Portfolio](https://felice.dorik.io/) (coming soon!)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/felice-chandra/)   
+- ✉️ Email: [felicengie@gmail.com](mailto:felicengie@gmail.com)
 
 ---
 
