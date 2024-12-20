@@ -1,6 +1,4 @@
-## Hi 👋, I'm Felice Chandra
-
-<h1 align="center">Hi 👋, I'm Felice</h1>
+<h1 align="center">Hi 👋, I'm Felice Chandra</h1>
 <h3 align="center">A passionate software developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
