@@ -2,7 +2,7 @@
 ![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFpemd5MHZkZmZ6eTU5eWk2YXR5djc4aXo4bzl2eDU5dXdrZ2YxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p765X6Z7QrxhunaoIR/giphy.gif)
 
 🎓 **Undergraduate Computer Science Student**  
-🎓 Stony Brook University ('24)  
+🎓 Stony Brook University 
 
 👩‍💻 Passionate about **Data Science**, **Machine Learning**, and exploring other exciting fields in tech!  
 🛠️ I also enjoy tinkering with **Full Stack Web Development** and writing clean, efficient **Python** code.  
