@@ -1,5 +1,5 @@
 # 🌟 Hello, World! I'm Felice 🌟  
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFpemd5MHZkZmZ6eTU5eWk2YXR5djc4aXo4bzl2eDU5dXdrZ2YxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p765X6Z7QrxhunaoIR/giphy.gif" width="75%" alt="Banner">
+![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFpemd5MHZkZmZ6eTU5eWk2YXR5djc4aXo4bzl2eDU5dXdrZ2YxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p765X6Z7QrxhunaoIR/giphy.gif)
 
 🎓 **Undergraduate Computer Science Student**  
 🎓 Stony Brook University 
