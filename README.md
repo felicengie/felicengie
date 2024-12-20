@@ -1,17 +1,54 @@
-<h1 align="center">Hi 👋, I'm Felice Chandra</h1>
-<h3 align="center">A passionate software developer from Indonesia</h3>
+# 🌟 Hello, World! I'm Felice 🌟  
+![Banner]([https://via.placeholder.com/1000x200?text=Welcome+to+my+GitHub!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fbroace27%2Fart%2F3am-lofi-art-GIF-846732723&psig=AOvVaw0uJ0SeKqJI8BrpvLypOiCV&ust=1734812883333000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD3jN-Xt4oDFQAAAAAdAAAAABAc))
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+🎓 **Undergraduate Computer Science Student**  
+🎓 Stony Brook University ('24)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/felice-chandra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felice-chandra/" height="30" width="40" /></a>
-</p>
+👩‍💻 Passionate about **Data Science**, **Machine Learning**, and exploring other exciting fields in tech!  
+🛠️ I also enjoy tinkering with **Full Stack Web Development** and writing clean, efficient **Python** code.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-                                                                      Check out my repos ⬇️
+## 🔍 What I'm Up To  
+- 🌱 Currently learning: **Advanced Machine Learning Techniques**  
+- 🔬 Working on: AI solutions for healthcare and optimizing web performance.  
+- 🎯 Career goals: Becoming a Data Scientist, Machine Learning Engineer, or innovating in tech fields yet to be explored!  
+
+---
+
+## 💡 Skills & Tools  
+✨ Languages:  
+![Python](https://img.shields.io/badge/Python-%2314354C?logo=python&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white&style=for-the-badge)  
+
+✨ Frameworks & Tools:  
+![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&style=for-the-badge)  
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300C8FF?logo=snowflake&logoColor=white&style=for-the-badge)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)  
+
+---
+
+## 🌟 Fun Facts About Me  
+- ✈️ From the beautiful **North Sumatra, Indonesia** 🇮🇩  
+- 📖 Love blending tech and creativity, inspired by ancient tools like **Sempoa (abacus)**!  
+- ☕ Can talk about coffee shop data insights for hours.  
+- 💬 Fluent in **Bahasa Indonesia** and a budding polyglot.
+
+---
+
+## 📫 Let's Connect!  
+- 🌐 [Portfolio](#) (coming soon!)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐️ *"Tech is more than tools—it's a way to make the world a bit brighter, one line of code at a time!"*  
+
 
 
 
