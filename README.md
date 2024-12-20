@@ -1,5 +1,5 @@
 # 🌟 Hello, World! I'm Felice 🌟  
-![Banner]([https://via.placeholder.com/1000x200?text=Welcome+to+my+GitHub!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fbroace27%2Fart%2F3am-lofi-art-GIF-846732723&psig=AOvVaw0uJ0SeKqJI8BrpvLypOiCV&ust=1734812883333000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD3jN-Xt4oDFQAAAAAdAAAAABAc))
+![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFpemd5MHZkZmZ6eTU5eWk2YXR5djc4aXo4bzl2eDU5dXdrZ2YxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p765X6Z7QrxhunaoIR/giphy.gif)
 
 🎓 **Undergraduate Computer Science Student**  
 🎓 Stony Brook University ('24)  
