@@ -46,7 +46,7 @@
 
 ---
 
-![Quote](https://img.shields.io/badge/⭐️%20Tech%20is%20more%20than%20tools—it's%20a%20way%20to%20make%20the%20world%20a%20bit%20brighter,%20one%20line%20of%20code%20at%20a%20time!-FFB5B3?style=flat-square)
+_⭐️ "Tech is more than tools—it's a way to make the world a bit brighter, one line of code at a time!"_
 
 
 
