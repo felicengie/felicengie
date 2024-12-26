@@ -9,21 +9,21 @@
 
 ---
 
-## 🔍 What I'm Up To  
+## <span style="color:#FFD7D6">🔍 What I'm Up To</span>
 - 🌱 Currently learning: **Advanced Machine Learning Techniques**  
 - 🔬 Working on: AI solutions for healthcare and optimizing web performance.  
 - 🎯 Career goals: Becoming a Data Scientist, Machine Learning Engineer, or innovating in tech fields yet to be explored!  
 
 ---
 
-## 💡 Skills & Tools  
+## <span style="color:#FFD7D6">💡 Skills & Tools</span>
 ✨ Languages:  
 ![Python](https://img.shields.io/badge/Python-%2314354C?logo=python&logoColor=white&style=for-the-badge)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white&style=for-the-badge)  
 
-✨ Frameworks & Tools:  
+<span style="color:#FFD7D6">✨ Frameworks & Tools:</span>
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black&style=for-the-badge)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&style=for-the-badge)  
 ![Snowflake](https://img.shields.io/badge/Snowflake-%2300C8FF?logo=snowflake&logoColor=white&style=for-the-badge)  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🌟 Fun Facts About Me  
+## <span style="color:#FFD7D6">🌟 Fun Facts About Me</span>
 - ✈️ From the beautiful **North Sumatra, Indonesia** 🇮🇩  
 - 📖 Love blending tech and creativity, inspired by ancient tools like **Sempoa (abacus)**!  
 - ☕ Can talk about coffee shop data insights for hours.  
@@ -39,14 +39,14 @@
 
 ---
 
-## 📫 Let's Connect!  
+## <span style="color:#FFD7D6">📫 Let's Connect!</span>
 - 🌐 [Portfolio](https://felice.dorik.io/) (coming soon!)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/felice-chandra/)   
 - ✉️ Email: [felicengie@gmail.com](mailto:felicengie@gmail.com)
 
 ---
 
-⭐️ *"Tech is more than tools—it's a way to make the world a bit brighter, one line of code at a time!"*  
+⭐️ *<span style="color:#FFB5B3">"Tech is more than tools—it's a way to make the world a bit brighter, one line of code at a time!"*</span>
 
 
 
