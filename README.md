@@ -1,5 +1,8 @@
 # 🪐 Hello, World! I'm Felice 🪐
-![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFpemd5MHZkZmZ6eTU5eWk2YXR5djc4aXo4bzl2eDU5dXdrZ2YxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p765X6Z7QrxhunaoIR/giphy.gif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chango&pause=1000&color=ffefda&center=true&vCenter=true&width=510&lines=Hello World!+%E3%83%BE(%EF%BC%BE-%EF%BC%BE)%E3%83%8E)](https://github.com/felicengie)
+
+
 
 🎓 **Undergraduate Computer Science Student**  
 🎓 Stony Brook University 
