@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Let's Connect!  
-- 🌐 [Portfolio](https://felice.dorik.io/](https://felicechandra.netlify.app/)) 
+- 🌐 [Portfolio](https://felicechandra.netlify.app/) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/felice-chandra/)   
 - ✉️ Email: [felicengie@gmail.com](mailto:felicengie@gmail.com)
 
