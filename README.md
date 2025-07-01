@@ -2,7 +2,7 @@
 
 
 🎓 **Undergraduate Computer Science Student**  
-🎓 Stony Brook University 
+🎓 Stony Brook University '25
 
 👩‍💻 Passionate about **Data Science**, **Machine Learning**, and exploring other exciting fields in tech!  
 🛠️ I also enjoy tinkering with **Full Stack Web Development** and writing clean, efficient **Python** code.  
