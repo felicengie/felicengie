@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chango&size=24&duration=3000&pause=1000&color=FFD7D6¢er=true&vCenter=true&width=500&lines=Hello%2C+I'm+Felice!+%F0%9F%AA%90;Welcome+to+my+coding+space+%E2%9C%A8;Exploring+the+digital+frontier)](https://github.com/felicengie)
 
 
-🎓 **Undergraduate Computer Science Student**  
+🎓 **Computer Science Student**  
 🎓 Stony Brook University '25
 
 👩‍💻 Passionate about **Data Science**, **Machine Learning**, and exploring other exciting fields in tech!  
