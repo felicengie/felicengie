@@ -11,7 +11,7 @@
 
 ## 🔍 What I'm Up To  
 - 🌱 Currently learning: **Advanced Machine Learning Techniques**  
-- 🔬 Working on: AI solutions for healthcare and optimizing web performance.  
+- 🔬 Working on: data solutions for healthcare in NYC.  
 - 🎯 Career goals: Becoming a Product Manager, Data Scientist, Machine Learning Engineer, Frontend or innovating in tech fields yet to be explored!  
 
 ---
